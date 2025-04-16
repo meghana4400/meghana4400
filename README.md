@@ -1,6 +1,6 @@
 # Hi there, I'm Meghana Garaga 👋
 
-## Data Engineer | Data Scientist | Data Analyst | AI Enthusiast
+## Data Analyst | Data Engineer | AI Enthusiast
 
 I am a Microsoft-Certified Data Professional with 4 years of experience in Data Engineering, Data Analytics, and Machine Learning. My expertise lies in transforming complex data into actionable insights, designing scalable data systems, and delivering innovative solutions that drive business value.
 
